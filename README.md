@@ -8,7 +8,7 @@ This project focuses on the aerodynamic design and optimization of ramjet engine
 - Oblique shock and normal shock calculators
 - Machine learning model training and prediction using XGBoost
 - CFD automation with SU2
-- 3D mesh visualization using PyVista
+- 3D visualization using PyVista
 - GUI tools built with Tkinter and PyQt5
 - Export results to Excel using XlsxWriter
 
