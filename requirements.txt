@@ -1,0 +1,19 @@
+# Ramjet Inlet Design Optimization Project
+# Environment: Python 3.10 on Ubuntu 20.04
+# To install dependencies, run: pip install -r requirements.txt
+
+# Data processing
+pandas==1.5.3
+numpy==1.23.5
+
+# Machine learning
+scikit-learn==1.3.0
+xgboost==1.7.6
+joblib==1.3.2
+
+# GUI and visualization
+PyQt5==5.15.9
+pyvista==0.42.0
+
+# Reporting
+xlsxwriter==3.1.2
