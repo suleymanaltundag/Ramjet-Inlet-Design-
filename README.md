@@ -1,4 +1,4 @@
-# Ramjet Inlet Design Optimization Project
+# MACHINE LEARNING BASED INVERSE AERODYNAMIC DESIGN OF RAMJET ENGINE
 
 This project focuses on the aerodynamic design and optimization of ramjet engine inlets using a combination of Python-based computational tools, machine learning models, and CFD simulation.
 
